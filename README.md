@@ -5,7 +5,7 @@
 
 A comprehensive **Information Retrieval (IR) System** developed as a university project. This engine implements the **Vector Space Model (VSM)** to rank documents based on relevance using **TF-IDF** weighting, **Stemming**, and **Stopword Removal**.
 
-![Project Screenshot]![prv](https://github.com/user-attachments/assets/9836869f-2ad6-4bd5-8f55-cef9e600f0b6)
+![prv](https://github.com/user-attachments/assets/9836869f-2ad6-4bd5-8f55-cef9e600f0b6)
 
 ## 🚀 Key Features
 
