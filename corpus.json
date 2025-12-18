@@ -1,0 +1,129 @@
+{
+    "doc1.txt": { 
+        "type": "document", 
+        "content": "The modern computer calculates complex data at incredible speeds using advanced processors. This calculation power allows scientists to simulate weather patterns and solve mathematical problems in seconds. Without high-speed calculation, modern engineering would be impossible." 
+    },
+    "doc2.txt": { 
+        "type": "document", 
+        "content": "Connecting to the internet securely requires a reliable modem and router setup. Once the connection is established, data packets travel through fiber optic cables across the world. If the connection fails, the system retries connecting automatically to restore access." 
+    },
+    "doc3.txt": { 
+        "type": "document", 
+        "content": "Python is a versatile programming language used widely for data science, web development, and backend systems. Its simple syntax makes it easy to learn, yet it is powerful enough for machine learning applications. Developers love Python because it integrates well with other tools." 
+    },
+    "doc4.txt": { 
+        "type": "document", 
+        "content": "To learn coding effectively, you must practice algorithms and understand fundamental data structures like arrays and trees. Coding is not just about writing syntax; it is about solving logic puzzles. Daily practice helps improve your problem-solving skills significantly." 
+    },
+    "doc5.txt": { 
+        "type": "document", 
+        "content": "The central server is currently down due to an unexpected power outage in the data center. We have lost the connection to the main database, and technicians are working to fix it. Please wait while we re-establish the secure connection to the server." 
+    },
+    "doc6.txt": { 
+        "type": "document", 
+        "content": "Artificial Intelligence (AI) helps computers learn from vast amounts of data without explicit programming. By analyzing patterns, AI systems can make predictions and automate complex tasks. This machine learning capability is transforming industries from healthcare to finance." 
+    },
+    "doc7.txt": { 
+        "type": "document", 
+        "content": "Software engineering involves the systematic design, development, and testing of software applications. Engineers must ensure the code is maintainable, scalable, and free of bugs. Good software engineering practices include code reviews and automated testing pipelines." 
+    },
+    "doc8.txt": { 
+        "type": "document", 
+        "content": "Cyber security is essential to protect the network from malicious hackers and dangerous viruses. Security protocols include firewalls, encryption, and multi-factor authentication. A breach in security can lead to the theft of sensitive user data and financial loss." 
+    },
+    "doc9.txt": { 
+        "type": "document", 
+        "content": "Cloud computing allows businesses to store and access data on remote servers hosted on the internet instead of local drives. This technology provides flexibility, scalability, and cost savings. Popular cloud platforms include AWS, Azure, and Google Cloud." 
+    },
+    "doc10.txt": { 
+        "type": "document", 
+        "content": "The Central Processing Unit (CPU) calculates and executes the instructions sent by the operating system and software. It acts as the brain of the computer, handling millions of operations per second. A faster CPU ensures that applications run smoothly without lag." 
+    },
+
+    "doc11.txt": { 
+        "type": "document", 
+        "content": "The quick brown fox jumps over the lazy dog in the grassy field. This famous sentence is often used to test typewriters because it contains every letter of the alphabet. The fox is agile and fast, while the dog is resting peacefully." 
+    },
+    "doc12.txt": { 
+        "type": "document", 
+        "content": "Dogs are known as man's best friend because they are incredibly loyal pets. My dog loves to play fetch in the park and run around with other dogs. Taking care of a dog requires time, patience, and plenty of exercise." 
+    },
+    "doc13.txt": { 
+        "type": "document", 
+        "content": "Cats are independent animals that enjoy their own space but also seek affection. The cat is sleeping comfortably on the warm sofa, purring softly. Unlike dogs, cats do not always need to be walked, making them easier pets for apartment living." 
+    },
+    "doc14.txt": { 
+        "type": "document", 
+        "content": "Lions are often called the kings of the jungle, although they mostly live in savannas. These big cats live in groups called prides and work together to hunt prey. The male lion is easily recognized by his majestic mane." 
+    },
+    "doc15.txt": { 
+        "type": "document", 
+        "content": "The city zoo has a wide variety of animals including a tall giraffe and a massive elephant. Visitors can learn about wildlife conservation and see exotic species up close. Zoos play a role in protecting endangered species from extinction." 
+    },
+    "doc16.txt": { 
+        "type": "document", 
+        "content": "Many birds fly south during the winter to find warmer climates and food sources. However, not all birds migrate; some, like cardinals, stay put. Additionally, some birds like penguins and ostriches cannot fly at all." 
+    },
+    "doc17.txt": { 
+        "type": "document", 
+        "content": "Fish live in the water and breathe using gills to extract oxygen. While many fish are harmless, sharks are dangerous predators that rule the ocean. Coral reefs provide a home for thousands of colorful fish species." 
+    },
+    "doc18.txt": { 
+        "type": "document", 
+        "content": "Veterinarians are medical professionals who take care of sick dogs, cats, and other animals. They perform surgeries, give vaccinations, and prescribe medicine. A good vet helps ensure your pet lives a long and healthy life." 
+    },
+    "doc19.txt": { 
+        "type": "document", 
+        "content": "The little puppy is still learning how to walk without tripping over its own feet. It is a very cute puppy with floppy ears and a wagging tail. Training a puppy takes patience, but the bond you form is worth the effort." 
+    },
+    "doc20.txt": { 
+        "type": "document", 
+        "content": "Wild animals should not be kept as pets in the house because they have natural instincts that make them unpredictable. Animals like tigers or monkeys belong in the wild or in professional sanctuaries. keeping them in a home is dangerous for both the owner and the animal." 
+    },
+
+    "doc21.txt": { 
+        "type": "document", 
+        "content": "I love cooking homemade pizza on Friday nights. The pizza dough needs to rise for at least an hour to get the perfect texture. Once ready, I top it with tomato sauce, mozzarella cheese, and pepperoni before baking it in a hot oven." 
+    },
+    "doc22.txt": { 
+        "type": "document", 
+        "content": "Traditional Italian food uses a lot of fresh ingredients like pasta, basil, olive oil, and tomato sauce. Dishes like lasagna and spaghetti carbonara are famous worldwide. The secret to good Italian cooking is simplicity and high-quality ingredients." 
+    },
+    "doc23.txt": { 
+        "type": "document", 
+        "content": "The head chef is cooking a premium steak for the customer. The steak is grilled to medium-rare perfection, ensuring it is juicy and tender. It is served with a side of garlic mashed potatoes and grilled asparagus." 
+    },
+    "doc24.txt": { 
+        "type": "document", 
+        "content": "Eating healthy food is crucial for maintaining a strong body and mind. A balanced diet includes plenty of green vegetables, fresh fruits, and lean proteins. Avoiding processed sugar and fast food can improve your energy levels significantly." 
+    },
+    "doc25.txt": { 
+        "type": "document", 
+        "content": "Burger and fries are the most popular type of fast food in the world. While they are delicious, they are often high in calories and fat, so they are not very healthy. It is okay to enjoy fast food occasionally, but not every day." 
+    },
+    "doc26.txt": { 
+        "type": "document", 
+        "content": "Baking a delicious chocolate cake requires precise measurements of flour, sugar, butter, and eggs. You must mix the batter until it is smooth and bake it at the right temperature. Decorating the cake with frosting is the most fun part." 
+    },
+    "doc27.txt": { 
+        "type": "document", 
+        "content": "Sushi is a traditional Japanese dish made of vinegared rice accompanied by raw fish or vegetables. It requires skill to roll the sushi tightly so it does not fall apart. Wasabi and soy sauce are commonly served on the side for extra flavor." 
+    },
+    "doc28.txt": { 
+        "type": "document", 
+        "content": "The vegetable soup is extremely hot right now, so be careful. You should let it cool down for a few minutes before eating to avoid burning your tongue. This soup is made with carrots, celery, and onions." 
+    },
+    "doc29.txt": { 
+        "type": "document", 
+        "content": "Breakfast is often considered the most important meal of the day because it kickstarts your metabolism. A good breakfast might include eggs, toast, oatmeal, or fruit. Skipping breakfast can make you feel tired and sluggish later in the day." 
+    },
+    "doc30.txt": { 
+        "type": "document", 
+        "content": "Rich chocolate ice cream is my absolute favorite dessert on a hot summer day. It is creamy, sweet, and refreshing. I like to add toppings like sprinkles, hot fudge, and a cherry on top for the ultimate treat." 
+    },
+
+    "img_cat_sleeping.png": { "type": "image", "content": "A fluffy domestic cat is sleeping in a sunbeam.", "tags": "cat, fluffy, domestic, pet, sleeping, cute" },
+    "img_cat_awake.png": { "type": "image", "content": "A playful ginger cat is sitting alert and looking at a toy.", "tags": "cat, playful, ginger, pet, awake, curious, toy" },
+    "img_dog.png": { "type": "image", "content": "A golden retriever dog is playing fetch in the park.", "tags": "dog, retriever, park, fetch, animal, game" },
+    "img_dog_sleeping.png": { "type": "image", "content": "A tired dog sleeping on the floor.", "tags": "dog, sleeping, tired, pet, floor" }
+}

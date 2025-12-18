@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Information Retrieval (IR) Vector Search</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css"> 
+    
+    <style>
+        i { margin-right: 8px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><i class="fa-solid fa-network-wired"></i> Vector Space Model Search</h1>
+        <p class="subtitle">Search is powered by TF-IDF ranking, Stemming, and Stopword removal.</p>
+
+        <div class="filter-controls">
+            <label class="filter-label"><i class="fa-solid fa-filter"></i> Filter Results:</label>
+            
+            <input type="radio" name="resultFilter" id="filterAll" value="all" checked class="hidden-radio"> 
+            <label for="filterAll" class="filter-button">
+                <i class="fa-solid fa-layer-group"></i> All Content
+            </label>
+            
+            <input type="radio" name="resultFilter" id="filterDocs" value="document" class="hidden-radio"> 
+            <label for="filterDocs" class="filter-button">
+                <i class="fa-solid fa-file-lines"></i> Documents Only
+            </label>
+            
+            <input type="radio" name="resultFilter" id="filterImages" value="image" class="hidden-radio"> 
+            <label for="filterImages" class="filter-button">
+                <i class="fa-solid fa-image"></i> Images Only
+            </label>
+        </div>
+
+        <form id="search-form">
+            <input type="text" id="query-input" placeholder="Enter search keywords..." required>
+            <button type="submit" id="search-btn">
+                <i class="fa-solid fa-magnifying-glass"></i> Search
+            </button>
+        </form>
+
+        <button id="show-corpus-btn">
+            <i class="fa-solid fa-database"></i> Show Indexing & Preprocessing Details
+        </button>
+
+        <div id="results-area">
+        </div>
+    </div>
+
+    <div id="corpus-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <div id="corpus-details-area">
+                <h2><i class="fa-solid fa-chart-simple"></i> Preprocessing & Indexing Details</h2>
+                
+                <div id="corpus-list-scroll"> 
+                    <div id="corpus-list">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-section">
+          <p>&copy; All Rights Reserved. Made by Amjed Elian.</p>
+        </div>
+    </footer>
+
+    <script src="client.js"></script>
+</body>
+</html>
